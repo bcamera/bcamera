@@ -45,7 +45,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 🚀 [Data Pipeline with Airflow + Spark](#)  
+- 🚀 [Data Pipeline with Airflow + Spark](https://github.com/bcamera/data-pipeline-airflow-spark)  
 - 📊 [SQL Data Warehouse Modeling](#)  
 - 🤖 [Machine Learning Project with Python](#)  
 
