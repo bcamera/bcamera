@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Bruno!
 
-💻 **Analista de Banco de Dados** com mais de 8 anos de experiência em Oracle e SQL, especializando para **Engenharia de Dados e Inteligência Artificial**.  
+💻 **Analista de Banco de Dados** com mais de 8 anos de experiência em Oracle e SQL, especializando em **Engenharia de Dados e Inteligência Artificial**.  
 
 🔹 **Experiência atual**:  
 - Modelagem de dados e automação de scripts SQL  
