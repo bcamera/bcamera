@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Bruno!
 
-💻 **Analista de Banco de Dados** com mais de 8 anos de experiência em Oracle e SQL, atualmente em transição para **Engenharia de Dados e Inteligência Artificial**.  
+💻 **Analista de Banco de Dados** com mais de 8 anos de experiência em Oracle e SQL, especializando para **Engenharia de Dados e Inteligência Artificial**.  
 
 🔹 **Experiência atual**:  
 - Modelagem de dados e automação de scripts SQL  
@@ -19,7 +19,7 @@
 
 # 👋 Hi, I'm Bruno!
 
-💻 **Database Analyst** with 8+ years of experience in Oracle and SQL, currently transitioning into **Data Engineering and Artificial Intelligence**.  
+💻 **Database Analyst** with 8+ years of experience in Oracle and SQL, specializing in **Data Engineering and Artificial Intelligence**.  
 
 🔹 **Current experience**  
 - Data modeling and SQL automation  
