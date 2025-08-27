@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno!
+# 👋 Olá, me chamo Bruno!
 
 💻 **Analista de Banco de Dados** com mais de 5 anos de experiência em Oracle e SQL, atualmente em transição para **Engenharia de Dados e Inteligência Artificial**.  
 
