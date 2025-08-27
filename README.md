@@ -14,7 +14,7 @@
 
 📌 **Objetivo**: atuar como **Engenheiro de Dados Pleno**, criando pipelines escaláveis, soluções de Big Data e aplicações de IA.  
 
-📫 Vamos nos conectar: [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bruno-c%C3%A2mera-5a916b96?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [E-mail](mailto:bcamerasantos@gmail.com)  
+📫 Vamos nos conectar: [LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A2mera-5a916b96?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [E-mail](mailto:bcamerasantos@gmail.com)
 
 
 # 👋 Hi, I'm Bruno!
@@ -52,4 +52,4 @@
 ---
 
 📫 Let's connect:  
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bruno-c%C3%A2mera-5a916b96?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [E-mail](mailto:bcamerasantos@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A2mera-5a916b96?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [E-mail](mailto:bcamerasantos@gmail.com)
