@@ -44,12 +44,5 @@
 
 ---
 
-## 📂 Featured Projects  
-- 🚀 [Data Pipeline with Airflow + Spark](https://github.com/bcamera/data-pipeline-airflow-spark)  
-- 📊 [SQL Data Warehouse Modeling](#)  
-- 🤖 [Machine Learning Project with Python](#)  
-
----
-
 📫 Let's connect:  
 [LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A2mera-5a916b96?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [E-mail](mailto:bcamerasantos@gmail.com)
